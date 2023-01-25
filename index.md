@@ -23,7 +23,7 @@ bandit10: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 
 bandit11: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 
-bandit12: 
+bandit12: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
 bandit13: 
 
