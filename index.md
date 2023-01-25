@@ -1,1 +1,43 @@
 
+bandit0: pandit0
+
+bandit1: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+
+bandit2: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
+bandit3: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
+bandit4: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+bandit5: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
+bandit6: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+
+bandit7: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+
+bandit8: TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+
+bandit9: EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+bandit10: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+
+bandit11: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+
+bandit12: 
+
+bandit13: 
+
+bandit14: 
+
+bandit15: 
+
+bandit16: 
+
+bandit17: 
+
+bandit18: 
+
+bandit19: 
+
+bandit20: 
+
