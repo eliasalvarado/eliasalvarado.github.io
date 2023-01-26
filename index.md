@@ -25,7 +25,7 @@ bandit11: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 
 bandit12: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
-bandit13: 
+bandit13: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 bandit14: 
 
